@@ -1,0 +1,9 @@
+{
+  "name": "chat-service-quality",
+  "examples": [
+    {"input": "What's the capital of France?"},
+    {"input": "Write a haiku about autumn leaves."},
+    {"input": "Explain what a race condition is, in a couple of sentences."},
+    {"input": "Give me a one-line Java lambda that squares a number."}
+  ]
+}
